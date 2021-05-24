@@ -209,3 +209,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* override number of MIDI tone keycodes (each octave adds 12 keycodes and allocates 12 bytes) */
 //#define MIDI_TONE_KEYCODE_OCTAVES 1
 
+#define VIAL_KEYBOARD_UID {0xAE, 0x4B, 0x59, 0xDD, 0x26, 0x47, 0x38, 0x1F}
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 4 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 0 }
