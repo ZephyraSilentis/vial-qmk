@@ -59,7 +59,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_SLEEP  /* If defined, the RGB lighting will be switched off when the host goes to sleep */
 
 #define RGBLIGHT_ANIMATIONS
-#define VIAL_KEYBOARD_UID {0x75, 0x97, 0x62, 0x4A, 0x80, 0x07, 0xDC, 0x7A}
+#define VIAL_KEYBOARD_UID {}
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 4 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 14 }
 
